@@ -53,7 +53,7 @@ education:
       details: |
         Describe your study here 
           - Bullet point
-experiences:
+experience:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
@@ -74,34 +74,33 @@ experiences:
       company: Emerson Automation Solutions, Crawley
       details: |
         Communication Skills, Public Speaking, Leadership, Problem Solving
+    - role: Global Support Lead
+      time: January 2019 - June 2020 (1 years 5 months)
+      company: Emerson Automation Solutions, Crawley
+      details: |
+        Communication Skills, Public Speaking, Leadership, Problem Solving
+    - role: Application Engineer
+      time: April 2018 - January 2019 (9 months)
+      company: Emerson Automation Solutions, Crawley
+      details: |
+        Provide engineering support to sales team, assisting customers with the setup of Permasense corrosion monitoring systems, designing and delivering training sessions to internal field engineers, presenting at user group meetings
+        Skills Communication Skills, Public Speaking, Problem Solving
+    - role: Support Engineer
+      time: June 2016 - April 2018 (1 years 10 months)
+      company: Emerson Automation Solutions, Horsham
+      details: |
+        Communication Skills, Problem Solving
+    - role: Assistant Support Engineer
+      time: July 2015 - June 2016 (11 months)
+      company: Emerson Automation Solutions, Horsham
+      details: |
+        Skills Communication Skills, Problem Solving
+    - role: Operations Intern
+      time: July 2012 - August 2013 (1 years 1 months)
+      company: General Electric, Dartford
+      details: |
+        Engineering Operations Intern for Rotor Cell Operations at GE Energy in Dartford. Gas Turbine inspection and repair on rotors up to 250MW capacity.
 
-Global Support Lead
-Emerson Automation Solutions
-January 2019 - June 2020 (1 years 5 months)
-• Crawley, UK
-Skills Communication Skills, Public Speaking, Leadership, Problem Solving
-Application Engineer
-Emerson Automation Solutions
-April 2018 - January 2019 (9 months)
-• Crawley, UK
-Provide engineering support to sales team, assisting customers with the setup of Permasense corrosion monitoring systems, designing and delivering training sessions to internal field engineers, presenting at user group meetings
-Skills Communication Skills, Public Speaking, Problem Solving
-Support Engineer
-Emerson Automation Solutions
-June 2016 - April 2018 (1 years 10 months)
-• Horsham, UK
-Skills Communication Skills, Problem Solving
-Assistant Support Engineer
-Emerson Automation Solutions
-July 2015 - June 2016 (11 months)
-• Horsham, UK
-Skills Communication Skills, Problem Solving
-Operations Intern
-General Electric
-July 2012 - August 2013 (1 years 1 months)
-• Dartford, Southern
-Engineering Operations Intern for Rotor Cell Operations at GE Energy in Dartford. Gas Turbine inspection and repair on rotors up to 250MW capacity.
-Skills Communication Skills, Problem Solving
 projects:
     title: Projects
     intro: >
