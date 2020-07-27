@@ -54,26 +54,12 @@ education:
         Describe your study here 
           - Bullet point
 experience:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
     - role: Global Support Manager
       time: June 2020 - Present (1 months)
       company: Emerson Automation Solutions, Crawley
       details: |
         Communication Skills, Public Speaking, Leadership, Problem Solving
+            - Bullet point
     - role: Global Support Lead
       time: January 2019 - June 2020 (1 years 5 months)
       company: Emerson Automation Solutions, Crawley
