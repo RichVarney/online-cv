@@ -39,15 +39,19 @@ education:
       university: Brunel University
       time: 2010 - 2015
       details: |
-        Describe 
+        Describe your study here 
           - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Foundations of Engineering
+      university: Brunel University
+      time: 2009 - 2010
       details: |
         Describe your study here 
           - Bullet point
+    - degree: A-Levels; Physics, Maths, Electronics. AS-Levels; English Literature, Photography
+      university: Brockenshurst College
+      time: 2007 - 2009
+      details: |
+        Describe your study here 
           - Bullet point
 experiences:
     - role: Lead Developer
