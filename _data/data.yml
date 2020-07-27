@@ -35,9 +35,9 @@ career-profile:
       
       I have a sociable demeanour with the ability to communicate at a high level across technical and managerial teams as well as with customers. My real aspiration is to work on cutting edge technology, developing products that help solve the worlds energy problems, as a chartered Engineer.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Masters of Engineering (MEng) 1st class Mechanical Engineering
+      university: Brunel University
+      time: 2010 - 2015
       details: |
         Describe 
           - Bullet point
@@ -46,11 +46,7 @@ education:
       university: Bristol University
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe your study here 
           - Bullet point
           - Bullet point
 experiences:
