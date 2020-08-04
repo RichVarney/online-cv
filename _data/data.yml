@@ -96,13 +96,13 @@ experiences:
       time: July 2015 - June 2016 (11 months)
       company: Emerson Automation Solutions, Horsham
       details: |
-        Skills gained; successfully liaising with teams and individuals at varying levels within different organisations and cultures. Problem solving under pressure. Technical report writing for customer data analysis.
+        - Skills gained; successfully liaising with teams and individuals at varying levels within different organisations and cultures, problem solving under pressure, technical report writing for customer data analysis.
         
     - role: Operations Intern
       time: July 2012 - August 2013 (1 years 1 months)
       company: General Electric, Dartford
       details: |
-        Engineering Operations Intern for Rotor Cell Operations at GE Energy in Dartford. Gas Turbine inspection and repair on rotors up to 250MW capacity.
+        - Engineering Operations Intern for Rotor Cell Operations at GE Energy in Dartford. Gas Turbine inspection and repair on rotors up to 250MW capacity.
 
 projects:
     title: Projects
@@ -149,5 +149,4 @@ skills:
       - name: CAE systems; Abaqus, Ansys, Labview
         level: 40%
 
-footer: >
-    <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Design credit</a>
+#footer: >
