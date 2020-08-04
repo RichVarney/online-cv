@@ -118,7 +118,7 @@ skills:
         level: 95%
         
       - name: Power BI
-        level: 75%
+        level: 85%
         
       - name: CRM systems; Oracle Cloud, Zoho
         level: 75%
@@ -127,14 +127,10 @@ skills:
         level: 45%
         
       - name: CAD systems; AutoCAD, Solidworks, Siemens NX 7.5, PTC Creo
-        level: 45%
+        level: 40%
 
       - name: CAE systems; Abaqus, Ansys, Labview
-        level: 45%
-        
-      - name: CAE systems; 
-        level-title: Abaqus, Ansys, Labview
-        level: 45%
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
