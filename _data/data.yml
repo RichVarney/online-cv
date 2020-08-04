@@ -54,6 +54,7 @@ education:
         Describe your study here 
           - Bullet point
 experiences:
+    title: experience
     - role: Global Support Manager
       time: June 2020 - Present (1 months)
       company: Emerson Automation Solutions, Crawley
@@ -98,22 +99,6 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -126,37 +111,27 @@ publications:
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Microsoft office; Word, Excel, Powerpoint
         level: 95%
+        
+      - name: Power BI
+        level: 75%
+        
+      - name: CRM systems; Oracle Cloud, Zoho
+        level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Computer languages; Python, SQL, Matlab
+        level: 45%
+        
+      - name: CAD systems; AutoCAD, Solidworks, Siemens NX 7.5, PTC Creo
+        level: 45%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: CAE systems; Abaqus, Ansys, Labview
+        level: 45%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
