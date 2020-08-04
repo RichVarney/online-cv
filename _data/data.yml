@@ -27,7 +27,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      First-class honours Master of Mechanical Engineering (IMechE accredited) graduate with 5 years’ experience in world-wide field engineering roles and 1year in the power generation industry.
+      First-class honours Master of Mechanical Engineering (IMechE accredited) graduate with 5 years’ experience in world-wide field engineering roles and 1 year in the power generation industry.
       
       History of developing exceptional solutions when faced with challenging problems. Implemented a technical support ticket tracking system to understand, control and resolve customer issues from anywhere in the world.
       
@@ -59,8 +59,11 @@ experiences:
       company: Emerson Automation Solutions, Crawley
       details: |
         Communication Skills, Public Speaking, Leadership, Problem Solving
+        
             - Bullet point
+            
             - Bullet point
+            
             - Bullet point
             
     - role: Global Support Lead
