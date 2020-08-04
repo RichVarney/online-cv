@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -29,7 +29,7 @@ career-profile:
     summary: |
       First-class honours Master of Mechanical Engineering (IMechE accredited) graduate with 5 years’ experience in world-wide field engineering roles and 1year in the power generation industry.
       
-      History of developing exceptional solutions when faced with challenging problems. Implemented a customer service ticketing and tracking system to understand, control and resolve global support cases.
+      History of developing exceptional solutions when faced with challenging problems. Implemented a technical support ticket tracking system to understand, control and resolve customer issues from anywhere in the world.
       
       A maker and innovator - built, from scratch, a hydrogen fuel cell with integrated solid storage at university, which sparked enthusiasm for projects that assist climate change.
       
@@ -60,27 +60,41 @@ experiences:
       details: |
         Communication Skills, Public Speaking, Leadership, Problem Solving
             - Bullet point
+            - Bullet point
+            - Bullet point
+            
     - role: Global Support Lead
       time: January 2019 - June 2020 (1 years 5 months)
       company: Emerson Automation Solutions, Crawley
       details: |
         Communication Skills, Public Speaking, Leadership, Problem Solving
+        
     - role: Application Engineer
       time: April 2018 - January 2019 (9 months)
       company: Emerson Automation Solutions, Crawley
       details: |
-        Provide engineering support to sales team, assisting customers with the setup of Permasense corrosion monitoring systems, designing and delivering training sessions to internal field engineers, presenting at user group meetings
+        Provided engineering support to sales team, assisted customers with the setup of Permasense corrosion monitoring systems, designed and delivered training sessions to internal field service engineers, presented at customer user group meetings
+        Customer facing product expert and established lead of EMEAR support team. Role included technical support to sales team, assisting customers with the setup of Permasense® corrosion monitoring systems, designing and delivering training sessions to internal field engineers, presenting at user group meetings.
+        
+        
+        Role was mixed between office and field based work, predominantly in the worldwide petrochemical industry but also in the chemical, geothermal and nuclear industries. 
+        Scheduling and performing site visits for system deployment projects, training sessions and technical sales support.
+        Other duties involved; product development feedback between customers and the development team, international trade compliance gatekeeper, health and safety committee member.
         Skills Communication Skills, Public Speaking, Problem Solving
+        
     - role: Support Engineer
       time: June 2016 - April 2018 (1 years 10 months)
       company: Emerson Automation Solutions, Horsham
       details: |
         Communication Skills, Problem Solving
+        
     - role: Assistant Support Engineer
       time: July 2015 - June 2016 (11 months)
       company: Emerson Automation Solutions, Horsham
       details: |
+        Skills gained; successfully liaising with teams and individuals at varying levels within different organisations and cultures. Problem solving under pressure. Technical report writing for 
         Skills Communication Skills, Problem Solving
+        
     - role: Operations Intern
       time: July 2012 - August 2013 (1 years 1 months)
       company: General Electric, Dartford
