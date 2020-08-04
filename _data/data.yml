@@ -53,6 +53,7 @@ education:
       details: |
         Describe your study here 
           - Bullet point
+          
 experiences:
     - role: Global Support Manager
       time: June 2020 - Present (1 months)
@@ -60,12 +61,7 @@ experiences:
       details: |
         Communication Skills, Public Speaking, Leadership, Problem Solving
         
-        - Bullet point
-          other point
-            
-        - Bullet point
-             
-        - Bullet point
+        - Other duties involved; product development feedback between customers and the development team, international trade compliance gatekeeper, health and safety committee member.
             
     - role: Global Support Lead
       time: January 2019 - June 2020 (1 years 5 months)
@@ -86,16 +82,15 @@ experiences:
         
         - Role included technical support to sales team, assisting customers with the setup of Permasense® corrosion monitoring systems, designing and delivering training sessions to internal field engineers, presenting at user group meetings.
         
-        - Role was mixed between office and field based work, predominantly in the worldwide petrochemical industry but also in the chemical, geothermal and nuclear industries. 
-        Scheduling and performing site visits for system deployment projects, training sessions and technical sales support.
-        
-        Other duties involved; product development feedback between customers and the development team, international trade compliance gatekeeper, health and safety committee member.
+        - Role was mixed between office and field based work, predominantly in the worldwide petrochemical industry but also in the chemical, geothermal and nuclear industries.
         
     - role: Support Engineer
       time: June 2016 - April 2018 (1 years 10 months)
       company: Emerson Automation Solutions, Horsham
       details: |
         - Provided technical support to sales team, assisted customers with the setup of Permasense corrosion monitoring systems, designed and delivered training sessions to internal field service engineers, presented at customer user group meetings.
+        
+        - Scheduled and performed site visits for system deployments, training sessions and technical sales support.
         
     - role: Assistant Support Engineer
       time: July 2015 - June 2016 (11 months)
