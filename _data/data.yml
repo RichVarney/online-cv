@@ -107,12 +107,10 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A small collection of notable personal, academic and professional projects that were particularly rewarding.
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Hydrogen fuel cell with solid state storage
+        link: "https://youtu.be/KxB3__tBNd0"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
