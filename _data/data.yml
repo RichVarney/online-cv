@@ -15,6 +15,7 @@ sidebar:
     email: varneyrich@hotmail.com
     phone: +44 7771 865 671
     linkedin: richard-varney
+    website: Based in Surrey, willing to travel
 
     interests:
       - item: Hiking
@@ -155,4 +156,5 @@ skills:
       - name: CAE systems; Abaqus, Ansys, Labview
         level: 40%
 
-#footer: >
+footer: >
+    References available on request
