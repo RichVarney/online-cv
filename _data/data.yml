@@ -113,15 +113,15 @@ projects:
         link: "https://youtu.be/KxB3__tBNd0"
         tagline: "Clean and reliable power generation by safe and controlled release of hydrogen at room temperature and low pressure."
         
-      - title: Automated troubleshooting system
+      - title: Automated sensor diagnosis tool
         link: "#"
-        tagline: "A software tool that automatically classifies failed sensors, and sensors with inconsistent or interesting data. Built with a combination of Power BI, SQL and Python."
+        tagline: "A software tool that interprets sensor data automatically classifies sensor failures, and sensors with inconsistent or interesting data. Built with a combination of Power BI, SQL and Python."
         
       - title: Racing quadcopter
-        link: "#"
+        link: "https://imgur.com/a/5PAbSz9"
         tagline: "Custom design and build of small but fast and highly maneuverable quadcopter."
 
-publications:
+#publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
