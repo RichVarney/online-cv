@@ -122,16 +122,16 @@ projects:
         tagline: "Custom design and build of small but fast and highly maneuverable quadcopter."
 
 #publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    #title: Publications
+    #intro: |
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #  bibendum fringilla a eu lectus.
+    #papers:
+    #  - title: The Art of Computer Programming
+    #    link: "#"
+    #    authors: Donald E. Knuth
+    #    conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
