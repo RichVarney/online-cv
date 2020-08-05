@@ -111,7 +111,7 @@ projects:
     assignments:
       - title: Hydrogen fuel cell with solid state storage
         link: "https://youtu.be/KxB3__tBNd0"
-        tagline: "Clean and reliable power generation by safe and controlled release of hydrogen at room temperature."
+        tagline: "Clean and reliable power generation by safe and controlled release of hydrogen at room temperature and low pressure."
         
       - title: Automated troubleshooting system
         link: "#"
