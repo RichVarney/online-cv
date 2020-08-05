@@ -107,19 +107,19 @@ experiences:
 projects:
     title: Projects
     intro: >
-      A small collection of notable personal, academic and professional projects that were particularly rewarding.
+      I have a passion for learning and applying that knowledge into new and exciting project. Here are some academic, professional and personal projects that were particularly rewarding.
     assignments:
       - title: Hydrogen fuel cell with solid state storage
         link: "https://youtu.be/KxB3__tBNd0"
         tagline: "Clean and reliable power generation by safe and controlled release of hydrogen at room temperature."
-      
+        
+      - title: Automated troubleshooting system
+        link: "#"
+        tagline: "A software tool that automatically classifies failed sensors, and sensors with inconsistent or interesting data. Built with a combination of Power BI, SQL and Python."
+        
       - title: Racing quadcopter
         link: "#"
         tagline: "Custom design and build of small but fast and highly maneuverable quadcopter."
-        
-      - title: C
-        link: "#"
-        tagline: "C"
 
 publications:
     title: Publications
