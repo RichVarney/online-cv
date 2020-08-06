@@ -5,6 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    stats: True # set to False if you want stats in sidebar
 
     # Profile information
     name: Richard Varney
@@ -40,25 +41,26 @@ career-profile:
       A maker and innovator - built, from scratch, a hydrogen fuel cell with integrated solid storage at university, which sparked enthusiasm for projects that assist climate change.
       
       I have a sociable demeanour with the ability to communicate at a high level across technical and managerial teams as well as with customers. My real aspiration is to work on cutting edge technology, developing products that help solve the worlds energy problems, as a chartered Engineer.
+
 education:
     - degree: Mechanical Engineering (MEng) 1st Class Honours
       university: Brunel University
       time: 2010 - 2015
-      details: |
-        Describe your study here 
-          - Bullet point
+      #details: |
+        #Describe your study here 
+          #- Bullet point
     - degree: Foundations of Engineering
       university: Brunel University
       time: 2009 - 2010
-      details: |
-        Describe your study here 
-          - Bullet point
+      #details: |
+        #Describe your study here 
+          #- Bullet point
     - degree: A-Levels; Physics, Maths, Electronics. AS-Levels; English Literature, Photography
       university: Brockenshurst College
       time: 2007 - 2009
-      details: |
-        Describe your study here 
-          - Bullet point
+      #details: |
+        #Describe your study here 
+          #- Bullet point
           
 experiences:
     - role: Global Support Manager
@@ -75,7 +77,7 @@ experiences:
       time: January 2019 - June 2020 (1 year 5 months)
       company: Emerson Automation Solutions, Crawley
       details: |
-        Skills gained; communication skills, public speaking, leadership, problem solving.
+        Skills gained; leading a team, communication skills, public speaking, problem solving.
         - Lead of global support team for resolving technical customer issues relating to the Permasense Corrosion and Erosion monitoring system. 
         
         - Gained communication skills through bringing together US, European and Asian support teams for regular information and knowledge sharing discussions.
@@ -85,7 +87,8 @@ experiences:
     - role: Application Engineer
       time: April 2018 - January 2019 (9 months)
       company: Emerson Automation Solutions, Crawley
-      details: |       
+      details: |   
+        Skills gained; public speaking, problem solving.
         - Customer facing product expert and established lead of EMEAR support team. 
         
         - Role included technical support to sales team, assisting customers with the setup of Permasense® corrosion monitoring systems, designing and delivering training sessions to internal field engineers, presenting at user group meetings.
@@ -96,6 +99,7 @@ experiences:
       time: June 2016 - April 2018 (1 year 10 months)
       company: Emerson Automation Solutions, Horsham
       details: |
+        Skills gained: successfully liaising with teams and individuals at varying levels within different organisations and cultures,
         - Provided technical support to sales team, assisted customers with the setup of Permasense corrosion monitoring systems, designed and delivered training sessions to internal field service engineers, presented at customer user group meetings.
         
         - Scheduled and performed site visits for system deployments, training sessions and technical sales support.
@@ -106,7 +110,7 @@ experiences:
       time: July 2015 - June 2016 (11 months)
       company: Emerson Automation Solutions, Horsham
       details: |
-        - Skills gained; successfully liaising with teams and individuals at varying levels within different organisations and cultures, problem solving under pressure, technical report writing for customer data analysis.
+        Skills gained; worldwide travel, problem solving under pressure, technical report writing for customer data analysis.
         
     - role: Operations Intern
       time: July 2012 - August 2013 (1 year 1 months)
