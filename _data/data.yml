@@ -129,7 +129,7 @@ projects:
     assignments:
       - title: Automated sensor diagnosis tool
         #link: "#"
-        tagline: "A software tool that interprets sensor data automatically classifies sensor failures, and sensors with inconsistent or interesting data. Built with a combination of Power BI, SQL and Python."
+        tagline: "A software tool that interprets sensor data automatically to classify sensor failures and sensors with inconsistent or interesting data. Built with a combination of Power BI, SQL and Python."
         
       - title: Hydrogen fuel cell with solid state storage
         link: "https://youtu.be/KxB3__tBNd0"
