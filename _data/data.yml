@@ -93,6 +93,8 @@ experiences:
         
         - Scheduled and performed site visits for system deployments, training sessions and technical sales support.
         
+        - Worldwide travel to offshore oil rigs, oil refineries and power stations.
+        
     - role: Assistant Support Engineer
       time: July 2015 - June 2016 (11 months)
       company: Emerson Automation Solutions, Horsham
@@ -108,15 +110,15 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I have a passion for learning and applying that knowledge into new and exciting project. Here are some academic, professional and personal projects that were particularly rewarding.
+      I have a passion for learning and applying that knowledge into new and exciting project. Here are some professional, academic, and personal projects that were particularly rewarding.
     assignments:
-      - title: Hydrogen fuel cell with solid state storage
-        link: "https://youtu.be/KxB3__tBNd0"
-        tagline: "Clean and reliable power generation by safe and controlled release of hydrogen at room temperature and low pressure."
-        
       - title: Automated sensor diagnosis tool
         link: "#"
         tagline: "A software tool that interprets sensor data automatically classifies sensor failures, and sensors with inconsistent or interesting data. Built with a combination of Power BI, SQL and Python."
+        
+      - title: Hydrogen fuel cell with solid state storage
+        link: "https://youtu.be/KxB3__tBNd0"
+        tagline: "Clean and reliable power generation by safe and controlled release of hydrogen at room temperature and low pressure."
         
       - title: Racing quadcopter
         link: "https://imgur.com/a/5PAbSz9"
@@ -153,8 +155,8 @@ skills:
       - name: CAD systems; AutoCAD, Solidworks, Siemens NX 7.5, PTC Creo
         level: 50%
 
-      - name: CAE systems; Abaqus, Ansys, Labview
-        level: 40%
+      #- name: CAE systems; Abaqus, Ansys, Labview
+        #level: 40%
 
 footer: >
     References available on request
