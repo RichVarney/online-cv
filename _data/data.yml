@@ -158,7 +158,7 @@ skills:
       - name: Microsoft office; Word, Excel, Powerpoint
         level: 95%
         
-      - name: Power BI
+      - name: Power BI                              
         level: 85%
         
       - name: CRM systems; Oracle Cloud, Zoho
@@ -169,6 +169,12 @@ skills:
         
       - name: CAD systems; AutoCAD, Solidworks, Siemens NX 7.5, PTC Creo
         level: 50%
+        
+      - name: Leadership
+        level: 85%
+        
+      - name: Analytical
+        level: 90%
 
       #- name: CAE systems; Abaqus, Ansys, Labview
         #level: 40%
