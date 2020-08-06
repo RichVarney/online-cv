@@ -125,10 +125,10 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I have a passion for learning and applying that knowledge into new and exciting project. Here are some professional, academic, and personal projects that were particularly rewarding.
+      I have a passion for learning and applying that knowledge into new and exciting project. Here are some professional, academic, and personal projects that were particularly rewarding:
     assignments:
       - title: Automated sensor diagnosis tool
-        link: "#"
+        #link: "#"
         tagline: "A software tool that interprets sensor data automatically classifies sensor failures, and sensors with inconsistent or interesting data. Built with a combination of Power BI, SQL and Python."
         
       - title: Hydrogen fuel cell with solid state storage
