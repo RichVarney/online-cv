@@ -36,9 +36,9 @@ career-profile:
     summary: |
       First-class honours Master of Mechanical Engineering (IMechE accredited) graduate with 5 years’ experience in world-wide field engineering roles and 1 year in the power generation industry.
       
-      History of developing exceptional solutions when faced with challenging problems. Implemented a technical support ticket tracking system to understand, control and resolve customer issues from anywhere in the world.
+      History of developing exceptional solutions when faced with challenging problems. Implemented a customer support request tracking system to understand, control and resolve customer issues from anywhere in the world.
       
-      A maker and innovator - built, from scratch, a hydrogen fuel cell with integrated solid storage at university, which sparked enthusiasm for projects that assist climate change.
+      A maker and innovator - built, from scratch, a hydrogen fuel cell with integrated solid storage at university, which sparked enthusiasm for projects relating to clean energy and the prevention of climate change.
       
       I have a sociable demeanour with the ability to communicate at a high level across technical and managerial teams as well as with customers. My real aspiration is to work on cutting edge technology, developing products that help solve the worlds energy problems, as a chartered Engineer.
 
@@ -56,7 +56,7 @@ education:
         #Describe your study here 
           #- Bullet point
     - degree: A-Levels; Physics, Maths, Electronics. AS-Levels; English Literature, Photography
-      university: Brockenshurst College
+      university: Brockenhurst College
       time: 2007 - 2009
       #details: |
         #Describe your study here 
@@ -69,9 +69,9 @@ experiences:
       details: |
         Skills gained; analytical thinking, problem solving under pressure, public speaking.
         
-        - Lead of global support team for both Permasense and Roxar product ranges at Emerson. Responsible for maintaining hierarchy of escalation of customer support requests between Field Service Engineers, Technical Support, Application Engineers and the factory.
+        - Lead of global support team of 12 people for both Permasense and Roxar product ranges at Emerson. Responsible for maintaining escalation hierarchy of customer support requests between Field Service Engineers, Technical Support, Application Engineers and the factory.
         
-        - Successfully developed and introduced a capability matrix tool that maps employees' current knowledge and the demand for that expertise in easch world area. Automatically updated by tracking changes in training logs and installed base logs.
+        - Successfully developed and introduced a capability matrix tool that maps employees' current knowledge and the demand for that expertise in each world area. Automatically updated by tracking changes in training logs and installed base logs.
         
         - Other aspects of the role included; product development feedback between customers and the development team, international trade compliance gatekeeper, health and safety committee member.
             
@@ -80,7 +80,7 @@ experiences:
       company: Emerson Automation Solutions, Crawley
       details: |
         Skills gained; leading a team, communication skills, problem solving.
-        - Lead of global support team for resolving technical customer issues relating to the Permasense Corrosion and Erosion monitoring system. 
+        - Lead of a global team of 7 field support engineers dedicated to resolving technical customer issues around the Permasense Corrosion and Erosion monitoring system. 
         
         - Gained leadership skills through bringing together US, European and Asian support teams for regular information and knowledge sharing discussions.
         
@@ -135,7 +135,7 @@ projects:
         
       - title: Racing quadcopter
         link: "https://imgur.com/a/5PAbSz9"
-        tagline: "Custom design and build of small but fast and highly maneuverable quadcopter."
+        tagline: "Custom design and build of small but fast and highly manoeuvrable quadcopter."
 
 #publications:
     #title: Publications
