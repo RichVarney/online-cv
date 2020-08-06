@@ -1,0 +1,22 @@
+{% assign stats = site.data.data.sidebar.stats %}
+{% if stats %}
+<div class="stats-container container-block">
+
+<h2 class="container-block-title">
+  stats
+</h2>
+
+<ul class="list-unstyled stats-list">
+  {% for interest in stats %}
+
+    {% if interest.link %}
+    <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+    {% else %}
+    <li>{{ interest.item }}</li>
+    {% endif %}
+
+  {% endfor %}
+</ul>
+
+</div><!--//stats-->
+{% endif %}
