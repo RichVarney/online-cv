@@ -1,4 +1,4 @@
-#
+# https://richvarney.github.io/online-cv/
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -9,12 +9,12 @@ sidebar:
 
     # Profile information
     name: Richard Varney
-    tagline: Global Support Manager. AMIMechE
+    tagline: Global Support Manager AMIMechE
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: varneyrich@hotmail.com
-    phone: +447771865671
+    phone: 07771865671
     linkedin: Richard-Varney
     location: Based in Surrey, will travel
 
@@ -64,16 +64,15 @@ education:
           
 experiences:
     - role: Global Support Manager
-      time: June 2020 - Present (2 months)
+      time: June 2020 - Present
       company: Emerson Automation Solutions, Crawley
       details: |
         Skills gained; analytical thinking, problem solving under pressure, public speaking.
-        
         - Lead of global team of 12 engineers for both Permasense and Roxar product ranges at Emerson. Responsible for maintaining escalation hierarchy of customer support requests between Field Service Engineers, Technical Support, Application Engineers and the factory.
         
         - Successfully developed and introduced a capability matrix tool that maps employees' current knowledge and the demand for that expertise in each world area. Automatically updated by tracking changes in training logs and installed base logs.
         
-        - Other aspects of the role included; product development feedback between customers and the development team, international trade compliance gatekeeper, health and safety committee member.
+        - Other aspects of the role included; product development feedback between customers and the development team, training groups of up to 30 field service engineers, health and safety committee member, international trade compliance gatekeeper.
             
     - role: Global Support Lead
       time: January 2019 - June 2020 (1 year 5 months)
@@ -82,9 +81,9 @@ experiences:
         Skills gained; leading a team, communication skills, problem solving.
         - Lead of a global team of 7 field support engineers dedicated to resolving technical customer issues around the Permasense Corrosion and Erosion monitoring system. 
         
+        - Introduced a customer support request tracking system. This was new to the team but with drive and discipline in using the tool regularly, everyone was able to see progress and feel involved, whilst still being held accountable for seeing customer issues through to closure.
+      
         - Gained leadership skills through bringing together US, European and Asian support teams for regular information and knowledge sharing discussions.
-        
-        - Established a customer support request tracking system to understand, control and resolve field and technical issues from anywhere in the world.
         
     - role: Application Engineer
       time: April 2018 - January 2019 (9 months)
@@ -155,14 +154,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Leadership
+        level: 85%
+        
+      - name: Analytical
+        level: 90%
+        
+      - name: CRM systems; Oracle Cloud, Zoho
+        level: 75%
+        
       - name: Microsoft office; Word, Excel, Powerpoint
         level: 95%
         
       - name: Power BI                              
         level: 85%
-        
-      - name: CRM systems; Oracle Cloud, Zoho
-        level: 75%
 
       - name: Computer languages; Python, SQL, Matlab
         level: 55%
@@ -170,11 +175,6 @@ skills:
       - name: CAD; AutoCAD, Solidworks, Siemens NX 7.5, PTC Creo
         level: 50%
         
-      - name: Leadership
-        level: 85%
-        
-      - name: Analytical
-        level: 90%
 
       #- name: CAE systems; Abaqus, Ansys, Labview
         #level: 40%
