@@ -27,9 +27,10 @@ sidebar:
       - item: Maker projects
       
     stats:
-      - item: Miles travelled; 300,000
-      - item: Customer sites visited; 88
-      - item: Countries visited; 29
+      - item: Miles travelled - 300,000+
+      - item: Customer sites visited - 88
+      - item: Countries visited - 29
+      #- item: Engineers trained - 150+
 
 career-profile:
     title: Career Profile
@@ -46,20 +47,20 @@ education:
     - degree: Mechanical Engineering (MEng) 1st Class Honours
       university: Brunel University
       time: 2010 - 2015
-      #details: |
-        #Describe your study here 
+      details: |
+        Design and analysis of mechanical systems and components, Engineering Materials Manufacturing and Electrical Machines, FEA; CFD; Numerical Modelling, Solid Body Mechanics, Thermofluids, Engineering Design, Technical Drawing, Workshop, Sustainability, Mechatronics, Internal Combustion Engines.
           #- Bullet point
     - degree: Foundations of Engineering
       university: Brunel University
       time: 2009 - 2010
-      #details: |
-        #Describe your study here 
+      details: |
+        Fundamentals of Solid Body Mechanics, Fundamentals of Thermofluids, Introduction to Engineering Design, Mechanical Laboratories, Technical Drawing
           #- Bullet point
-    - degree: A-Levels; Physics, Maths, Electronics. AS-Levels; English Literature, Photography
+    - degree: A-Level, AS-Level
       university: Brockenhurst College
       time: 2007 - 2009
-      #details: |
-        #Describe your study here 
+      details: |
+        A-Levels; Physics, Maths, Electronics. AS-Levels; English Literature, Photography
           #- Bullet point
           
 experiences:
@@ -174,7 +175,6 @@ skills:
         
       - name: CAD; AutoCAD, Solidworks, Siemens NX 7.5, PTC Creo
         level: 50%
-        
 
       #- name: CAE systems; Abaqus, Ansys, Labview
         #level: 40%
