@@ -156,10 +156,10 @@ skills:
 
     toolset:
       - name: Leadership
-        level: 85%
+        level: 75%
         
       - name: Analytical
-        level: 90%
+        level: 85%
         
       - name: CRM systems; Oracle Cloud, Zoho
         level: 75%
