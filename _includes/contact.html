@@ -24,6 +24,12 @@
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.location %}
+    <li class="location"><i class="fas fa-globe-americas"></i>
+      <a href="http://{{ sidebar.location }}" target="_blank">{{ sidebar.location }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
