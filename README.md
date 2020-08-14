@@ -7,9 +7,6 @@ View online at [https://richvarney.github.io/online-cv/](https://richvarney.gith
 
 Edit content at [https://github.com/RichVarney/online-cv/blob/master/_data/data.yml](https://github.com/RichVarney/online-cv/blob/master/_data/data.yml)
 
-Hit counter  <a href='https://free-hit-counters.net/'>free-hit-counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d522c313c3b5696eea2722ff76ba25fb4790028b'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/734635/t/3"></script>
-
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
