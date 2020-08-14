@@ -7,6 +7,8 @@ View online at [https://richvarney.github.io/online-cv/](https://richvarney.gith
 
 Edit content at [https://github.com/RichVarney/online-cv/blob/master/_data/data.yml](https://github.com/RichVarney/online-cv/blob/master/_data/data.yml)
 
+View webpage hits at [https://www.freevisitorcounters.com/en/home/stats/id/734635](https://www.freevisitorcounters.com/en/home/stats/id/734635)
+
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
